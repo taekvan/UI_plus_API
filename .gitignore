@@ -1,0 +1,48 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea
+_build/
+
+#Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.cache
+
+.pytest_cache/
+
+
+
+# pyenv
+.python-version
+
+
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+build_venv/
+*.env
+
+
+
+
+# local files to run e2e
+tunnel_data.json
+terraform_output_dev_post_tf.json
+.vscode/
+/reports
+/results

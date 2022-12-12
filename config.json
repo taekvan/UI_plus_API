@@ -1,0 +1,8 @@
+{
+  "browser": "chrome",
+  "url": "https://www.saucedemo.com/",
+  "reports_path": "./",
+  "timeout": 5,
+  "standart_user": "standard_user",
+  "standart_password": "secret_sauce"
+}
